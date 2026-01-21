@@ -1,0 +1,9 @@
+numpy == 2.3.5 ## pymc ver. 5.27 requires numpy < 2.4
+matplotlib ~= 3.10
+networkx ~= 3.6
+scipy ~= 1.17
+arviz ~= 0.23
+scikit-learn ~= 1.8
+ipywidgets ~= 8.1
+# pymc ~= 5.27
+### install pymc using conda, due to high dependence other C/C++ libs
